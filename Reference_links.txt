@@ -1,0 +1,4 @@
+https://openjdk.org/projects/amber/design-notes/records-and-sealed-classes
+https://openjdk.org/projects/
+https://openjdk.org/projects/amber/guides/text-blocks-guide
+https://openjdk.org/

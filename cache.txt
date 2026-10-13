@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=vpe4aDu5ixI
+https://www.youtube.com/watch?v=3McRajvmdlw
+https://www.youtube.com/watch?v=3NLS7147UQo
+https://docs.spring.io/spring-framework/reference/integration/cache.html
+https://redis.io/docs/latest/develop/use-cases/cache-aside/

@@ -1,0 +1,6 @@
+https://mylearn.oracle.com/ou/learning-path/java-explorer/79726/
+https://docs.oracle.com/javase/tutorial/java/index.html 
+above link is older java
+
+https://dev.java/learn/
+latest java

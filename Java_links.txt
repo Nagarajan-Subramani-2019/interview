@@ -4,3 +4,6 @@ above link is older java
 
 https://dev.java/learn/
 latest java
+
+certifications:
+https://mylearn.oracle.com/ou/course/oracle-java-foundations/152254

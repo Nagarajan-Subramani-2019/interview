@@ -1,0 +1,16 @@
+1)23-10-2026
+https://mylearn.oracle.com/ou/course/what-is-a-java-program/79737/110000
+learning oo concepts
+Data Design Patterns - leading 
+
+2)
+Kafka in own applciation 
+like logs 
+
+3)
+adding mcp for our own application 
+
+4)
+adding cache concurrency 
+
+

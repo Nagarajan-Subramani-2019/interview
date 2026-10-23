@@ -3,14 +3,38 @@ https://mylearn.oracle.com/ou/course/what-is-a-java-program/79737/110000
 learning oo concepts
 Data Design Patterns - leading 
 
-2)
+2)23-9-2026
 Kafka in own applciation 
 like logs 
 
-3)
+3)23-9-2026
 adding mcp for our own application 
 
-4)
+4)23-9-2026
 adding cache concurrency 
+
+5)23-9-2026
+Decision services KT Video
+
+6)23-10-2026
+Image generation in llm / MCP 
+
+Achieved:
+============
+1)23-9-2026
+LLM in local machine 
+
+2)23-9-2026
+Database 
+
+3)23-9-2026
+Github
+
+4)23-9-2026
+Image generation 
+
+
+
+
 
 
